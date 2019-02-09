@@ -1,0 +1,17 @@
+{
+  "name": "2019-02-09-calculadora",
+  "version": "1.0.0",
+  "description": "una calculadora para aprender a utilizar modulos en node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "numeros",
+    "calculadora",
+    "centraalacademy",
+    "practica"
+  ],
+  "author": "Moises AV",
+  "license": "ISC"
+}
